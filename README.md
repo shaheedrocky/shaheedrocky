@@ -1,6 +1,5 @@
 <h1 align="center">Hi <Developers/> 👋, I'm Shaheed Ahamed</h1>
 <h3 align="center">A passionate Frontend Developer 💻 & Mobile Application developer 📱 from India</h3>
-<img src='right' alt='Coding' width='400' src='https://media1.tenor.com/images/cd37fa49c983ac905df0016fd5b6a2ee/tenor.gif?itemid=13165216'>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=shaheedrocky" alt="shaheedrocky" /></a> </p>
 
@@ -10,7 +9,7 @@
 
 - 📫 How to reach me **shaheedsibil@gmail.com**
 
-- 📄 Know about my experiences [https://www.canva.com/design/DAFKM1GjtwU/iFmZPXQL956sgXHkOwhfKA/edit?utm_content=DAFKM1GjtwU&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton](https://www.canva.com/design/DAFKM1GjtwU/iFmZPXQL956sgXHkOwhfKA/edit?utm_content=DAFKM1GjtwU&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton)
+- 📄 Know about my experiences [https://drive.google.com/drive/my-drive](https://drive.google.com/drive/my-drive)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
