@@ -19,11 +19,9 @@ I love creating **scalable, high-performance applications** with beautiful UI/UX
   <a href="https://linkedin.com/in/shaheed-s" target="_blank">
     <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" width="40" height="40"/>
   </a>
-  <a href="https://twitter.com/" target="_blank">
-    <img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="Twitter"/>
-  </a>
+
   <a href="https://shaheed-ahamed.netlify.app/" target="_blank">
-    <img src="https://cdn.worldvectorlogo.com/logos/netlify-1.svg" alt="Portfolio" width="40" height="40"/>
+    <img src="https://cdn.worldvectorlogo.com/logos/netlify-1.svg](https://cdn-icons-png.flaticon.com/512/726/726056.png" alt="Portfolio" width="40" height="40"/>
   </a>
 </p>
 
