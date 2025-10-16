@@ -1,23 +1,79 @@
-<h1 align="center">Hi <Developers/> 👋, I'm Shaheed Ahamed</h1>
-<h3 align="center">A passionate Frontend Developer 💻 & Mobile Application developer 📱 from India</h3>
+<h1 align="center">Hi 👋, I'm Shaheed Ahamed</h1>
+<h3 align="center">Full-Stack Developer | React.js & React Native | Node.js | MongoDB</h3>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=shaheedrocky" alt="shaheedrocky" /></a> </p>
-
-<p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
-
-- 🌱 I’m currently learning **Computer Science and Engineering**
-
-- 📫 How to reach me **shaheedsibil@gmail.com**
-
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/https://www.linkedin.com/in/shaheed-ahamed-b33454218" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/shaheed-ahamed-b33454218" height="30" width="40" /></a>
+<p align="center">
+  <a href="https://github.com/ryo-ma/github-profile-trophy">
+    <img src="https://github-profile-trophy.vercel.app/?username=shaheedrocky" alt="shaheedrocky"/>
+  </a>
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://developer.android.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" alt="android" width="40" height="40"/> </a> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://dart.dev" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/dartlang/dartlang-icon.svg" alt="dart" width="40" height="40"/> </a> <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> <a href="https://firebase.google.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/> </a> <a href="https://flutter.dev" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" alt="flutter" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://kotlinlang.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/kotlinlang/kotlinlang-icon.svg" alt="kotlin" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://reactnative.dev/" target="_blank" rel="noreferrer"> <img src="https://reactnative.dev/img/header_logo.svg" alt="reactnative" width="40" height="40"/> </a> <a href="https://www.adobe.com/products/xd.html" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/adobe-xd.svg" alt="xd" width="40" height="40"/> </a> </p>
+---
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=shaheedrocky&show_icons=true&locale=en&layout=compact" alt="shaheedrocky" /></p>
+## 🔹 About Me
+I am a passionate **Full-Stack Developer** with 3+ years of experience building web and mobile applications.  
+I specialize in **React.js, React Native, Node.js, MongoDB**, and cloud deployment using **AWS EC2/S3**.  
+I love creating **scalable, high-performance applications** with beautiful UI/UX and robust backend systems.  
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=shaheedrocky&show_icons=true&locale=en" alt="shaheedrocky" /></p>
+- 🌱 Currently improving advanced **DSA, Next.js, and cloud-native applications**  
+- 💼 Open to Full-Stack & Mobile Application opportunities  
+- 📫 Reach me at: [shaheedsibil@gmail.com](mailto:shaheedsibil@gmail.com)  
+
+---
+
+## 🔹 Connect with Me
+<p align="left">
+  <a href="https://linkedin.com/in/shaheed-s" target="_blank">
+    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" width="40" height="40"/>
+  </a>
+  <a href="https://twitter.com/" target="_blank">
+    <img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="Twitter"/>
+  </a>
+  <a href="https://shaheed-ahamed.netlify.app/" target="_blank">
+    <img src="https://cdn.worldvectorlogo.com/logos/netlify-1.svg" alt="Portfolio" width="40" height="40"/>
+  </a>
+</p>
+
+---
+
+## 🔹 Skills & Technologies
+
+**Frontend:** React.js, React Native, Next.js, Redux Toolkit, Tailwind CSS, Material UI, Shad CN  
+**Backend:** Node.js, Express.js, RESTful APIs, Authentication & Authorization, MVC Architecture  
+**Databases:** MongoDB, MySQL, Firebase Realtime Database  
+**DevOps & Cloud:** AWS EC2/S3, Git, GitHub, CI/CD, Postman  
+**UI/UX & Design:** Figma, Adobe XD  
+**Programming Languages:** JavaScript (ES6+), TypeScript, HTML5, CSS3, Python, Java, Dart  
+**Methodologies:** Agile, Scrum  
+
+---
+
+## 🔹 Highlighted Projects
+
+### **Edumpus StudyAbroad Platform**  
+*Full-Stack Developer | React.js, React Native, Node.js, MongoDB, AWS EC2/S3*  
+- Built end-to-end web & mobile platform for student onboarding and university applications  
+- Developed RESTful APIs and responsive cross-platform interfaces  
+
+### **Rootz – Social Networking Application**  
+*Lead Mobile Developer | React Native, Socket.IO, MongoDB, Redux Toolkit*  
+- Developed social networking app with real-time chat, notifications, and post management  
+- Optimized performance and state management  
+
+### **Uganda Tour Places App (Ongoing)**  
+*Full-Stack Developer | React.js, Node.js, MongoDB, Tailwind CSS*  
+- Travel & tourism platform showcasing destinations, maps, and reviews  
+- Implemented backend APIs and responsive frontend UI  
+
+---
+
+## 🔹 GitHub Stats
+<p align="left">
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=shaheedrocky&show_icons=true&locale=en" alt="Shaheed's GitHub Stats" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=shaheedrocky&layout=compact&hide=html,css&langs_count=8&locale=en" alt="Top Languages"/>
+</p>
+
+---
+
+## 🔹 Fun Fact
+- I love turning complex problems into **simple, elegant solutions**  
+- Always exploring new technologies and frameworks to stay up-to-date in the web & mobile ecosystem
